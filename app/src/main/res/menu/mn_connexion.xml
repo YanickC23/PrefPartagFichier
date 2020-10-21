@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnConnect"
+        android:title="Connexion" />
+    <item
+        android:id="@+id/mnStockExt"
+        android:title="Stockage Externe" />
+    <item
+        android:id="@+id/mnActPrinc"
+        android:title="ActPrincipale" />
+</menu>

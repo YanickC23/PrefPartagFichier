@@ -52,6 +52,7 @@ public class StockageExterne extends AppCompatActivity {
 
 
 
+
     public void SauvegardeFichier(){
 
         String etatStockage = Environment.getExternalStorageState();
